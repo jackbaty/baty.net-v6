@@ -5,7 +5,8 @@ tags: ["workflow"]
 categories: ["Misc"]
 ---
 
-{{< resize-image src="featured.jpg" alt="Featured Image" >}}
+
+![Featured](featured.jpg)
 
 
 I’m exhausted. I think it’s because I haven’t been working in more than a month and my brain has had too much free time to “figure stuff out.” (Yes, I know how it sounds to complain about exhaustion while not having a job!)
