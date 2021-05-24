@@ -1,6 +1,6 @@
 SERVER_HOST=v6.baty.net
 SERVER_DIR=/home/jbaty/apps/v6.baty.net/public_html
-PUBLIC_DIR=/Users/jbaty/baty.net-blog/public
+PUBLIC_DIR=/Users/jbaty/baty.net-blog/public/
 TARGET=DigitalOcean
 
 
@@ -9,7 +9,6 @@ deploy: build
 	rsync -v -rz --checksum --delete --no-perms $(PUBLIC_DIR) $(SERVER_HOST):$(SERVER_DIR)
 
 build:
-	rm -rf $(PUBLIC_DIR)
 	hugo
 
 
