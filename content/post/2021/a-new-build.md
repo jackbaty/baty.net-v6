@@ -2,7 +2,7 @@
 title: "A New Build"
 date: 2021-05-24T19:35:02-04:00
 tags: ["Blogging", "Hugo"]
-categor: ["Meta"]
+categories: ["Meta"]
 ---
 
 I've been feeling like blogging with Hugo again, so here we are.
