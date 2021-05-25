@@ -58,6 +58,25 @@ DONE I forget how fun ox-hugo is :@Meta:hugo:orgmode:
 #+end_example
 
 
+* About
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: /
+:EXPORT_HUGO_BUNDLE: about
+:EXPORT_FILE_NAME: index
+:END:
+
+{{% figure class="center" src="jack-headshot-400.jpg" title="Your host, Jack Baty" alt="portrait" %}}
+
+
+Start here: [[https://www.baty.net/][baty.net]]
+
+or here: [[https://copingmechanism.com][copingmechanism.com]]
+
+or here: [[https://rudimentarylathe.org][rudimentarylathe.org]]
+
+Email: [[mailto:jack@baty.net][jack@baty.net]]
+
+
 * Footnotes
 * COMMENT Local Variables                                           :ARCHIVE:
 # Local Variables:
