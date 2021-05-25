@@ -5,6 +5,8 @@ date: 2021-04-29
 
 Here’s my star rating system for everything:
 
+<!--more-->
+
 ⭐️⭐️⭐️⭐️⭐️ Loved it!  
 ⭐️⭐️⭐️⭐️ It was good  
 ⭐️⭐️⭐️ It was OK  
