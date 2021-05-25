@@ -1,6 +1,6 @@
 SERVER_HOST=v6.baty.net
 SERVER_DIR=/home/jbaty/apps/v6.baty.net/public_html
-PUBLIC_DIR=/Users/jbaty/baty.net-blog/public/
+PUBLIC_DIR=/Users/jbaty/baty.net-v6/public/
 TARGET=DigitalOcean
 
 
