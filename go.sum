@@ -2,3 +2,5 @@ github.com/kimcc/hugo-theme-noteworthy v0.0.0-20200418051556-de668f23496e h1:xiJ
 github.com/kimcc/hugo-theme-noteworthy v0.0.0-20200418051556-de668f23496e/go.mod h1:vTL4JYLSAlggHB2ax4Y6oUpPg8TqVyK6LK/BqT4OTZc=
 github.com/olOwOlo/hugo-theme-even v4.1.0+incompatible h1:vac90+azWrNgGvanS7mN2ztvJl9P5IHFvPSS+EAbYRA=
 github.com/olOwOlo/hugo-theme-even v4.1.0+incompatible/go.mod h1:fi8rrW+HLHpDEjP9Hft6Mx5ZFQRnofQuVHgavM0ruyo=
+github.com/xianmin/hugo-theme-jane v0.0.0-20210108235432-cfbd7dccfbb4 h1:18pvmyhdUJ/hVt2wC0kEo+gkj+KNJGHSdw53h8wfVL4=
+github.com/xianmin/hugo-theme-jane v0.0.0-20210108235432-cfbd7dccfbb4/go.mod h1:Zf3ISQW08nRA/b6a6KsbkZEnTJHxMZaaYeODgyKb6cU=
