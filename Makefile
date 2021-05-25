@@ -17,7 +17,7 @@ commit:
 	git add -A
 	git commit -m "Build site `date`"
 
-push:
+push: commit
 	@echo "\033[0;32mPushing repo\033[0m"
 	git push origin main
 
