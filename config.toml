@@ -9,10 +9,6 @@ enableGitInfo = false # use git commit log to generate lastmod record # 可根�
 
 newContentEditor = 'emacsclient -a "" -c'
 
-[module]
-[[module.imports]]
-    path = "github.com/olOwOlo/hugo-theme-even"
-    disabled = false
 
 # Syntax highlighting by Chroma. NOTE: Don't enable `highlightInClient` and `chroma` at the same time!
 pygmentsOptions = "linenos=table"
@@ -235,3 +231,7 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
 #  section = ["HTML", "RSS"]
 #  taxonomy = ["HTML", "RSS"]
 #  taxonomyTerm = ["HTML"]
+[module]
+[[module.imports]]
+    path = "github.com/olOwOlo/hugo-theme-even"
+    disabled = false
