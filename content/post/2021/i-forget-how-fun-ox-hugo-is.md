@@ -1,14 +1,16 @@
 ---
 title: "I forget how fun ox-hugo is"
 date: 2021-05-25T00:00:00-04:00
-lastmod: 2021-05-25T09:29:26-04:00
+lastmod: 2021-05-26T06:52:00-04:00
 tags: ["hugo", "orgmode"]
 categories: ["Meta"]
 draft: false
-weight: 2001
+weight: 2002
 ---
 
 [ox-hugo](https://ox-hugo.scripter.co) is "an Org exporter backend that exports Org to Hugo-compatible Markdown (Blackfriday) and also generates the front-matter (in TOML or YAML format)."
+
+It's more fun than it sounds.
 
 <!--more-->
 

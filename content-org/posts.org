@@ -12,6 +12,23 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: post/2021
 :END:
+** DONE Grok TiddlyWiki
+:PROPERTIES:
+:EXPORT_FILE_NAME: grok-tiddlywiki
+:EXPORT_DATE: <2021-05-26 Wed>
+:END:
+
+[[https://sorenbjornstad.com/][Soren Bjornstad]] has recently released the first edition of [[https://groktiddlywiki.com/read/][Grok TiddlyWiki]] and it's terrific.
+
+
+#+begin_quote
+Grok TiddlyWiki is a textbook that helps you build a deep, lasting understanding of and proficiency with TiddlyWiki through a combination of detailed explanations, practical exercises, and spaced-repetition reviews of prompts called takeaways.
+#+end_quote
+
+#+hugo: more
+
+A chief complaint about TiddlyWiki is that it’s difficult to learn. This is not unfounded. The documentation is complete, but hard to parse and there are few resources for actually learning TiddlyWiki. Grok TiddlyWiki is a fantastic resource and if you’re even remotely interested in learning more about TiddlyWiki, it’s highly recommended. My goodness, TiddlyWiki is amazing.
+
 ** DONE I forget how fun ox-hugo is :@Meta:hugo:orgmode:
 :PROPERTIES:
 :EXPORT_FILE_NAME: i-forget-how-fun-ox-hugo-is
@@ -21,6 +38,7 @@
 
 [[https://ox-hugo.scripter.co][ox-hugo]] is "an Org exporter backend that exports Org to Hugo-compatible Markdown (Blackfriday) and also generates the front-matter (in TOML or YAML format)."
 
+It's more fun than it sounds.
 #+hugo: more
 
 I've used ox-hugo before, but I end up either drifting away from Org mode and/or Hugo and forget what a powerful combination ox-hugo, Org mode, and Hugo can be.
