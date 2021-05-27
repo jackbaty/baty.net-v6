@@ -1,7 +1,7 @@
 ---
 title: "Local theme development when using Hugo Modules"
 date: 2021-05-27T00:00:00-04:00
-lastmod: 2021-05-27T08:12:38-04:00
+lastmod: 2021-05-27T09:05:42-04:00
 tags: ["hugo"]
 categories: ["Tech"]
 draft: false
@@ -32,6 +32,8 @@ export HUGO_MODULE_REPLACEMENTS="github.com/jackbaty/hugo-theme-even -> /Users/j
 ```
 
 Now, when running hugo serve locally, it picks up my local repo automatically, but server builds will use the "real" repo from Github. Clever.
+
+UPDATE: I've learned that in order for Hugo to pick up changes to the theme repo, there must be a "release" created in Github.
 
 [//]: # "Exported with love from a post written in Org mode"
 [//]: # "- https://github.com/kaushalmodi/ox-hugo"
