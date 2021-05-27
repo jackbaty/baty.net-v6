@@ -43,6 +43,8 @@ export HUGO_MODULE_REPLACEMENTS="github.com/jackbaty/hugo-theme-even -> /Users/j
 
 Now, when running hugo serve locally, it picks up my local repo automatically, but server builds will use the "real" repo from Github. Clever.
 
+And so far, all of this "Just Works" when deploying to Netlify.
+
 UPDATE: I've learned that in order for Hugo to pick up changes to the theme repo, there must be a "release" created in Github.
 
 ** DONE Grok TiddlyWiki :tiddlywiki:
