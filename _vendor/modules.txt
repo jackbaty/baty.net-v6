@@ -1,1 +1,1 @@
-# github.com/olOwOlo/hugo-theme-even v4.1.0+incompatible
+# github.com/jackbaty/hugo-theme-even v4.1.0+incompatible

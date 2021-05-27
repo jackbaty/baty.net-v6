@@ -238,5 +238,6 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
 #  taxonomyTerm = ["HTML"]
 [module]
 [[module.imports]]
-    path = "github.com/olOwOlo/hugo-theme-even"
+    #path = "github.com/olOwOlo/hugo-theme-even"
+    path = "github.com/jackbaty/hugo-theme-even"
     disabled = false
