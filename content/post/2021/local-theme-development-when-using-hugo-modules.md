@@ -1,0 +1,37 @@
+---
+title: "Local theme development when using Hugo Modules"
+date: 2021-05-27T00:00:00-04:00
+lastmod: 2021-05-27T08:12:38-04:00
+tags: ["hugo"]
+categories: ["Tech"]
+draft: false
+weight: 2001
+---
+
+Recent versions of Hugo prefer the use of go "modules" for managing themes. This is new and a little weird to me, but I'm slowly beginning to understand it. I'm documenting the process here so I don't forget.
+
+<!--more-->
+
+I've forked an original theme ([Even](https://github.com/olOwOlo/hugo-theme-even)) for use here. To tell Hugo where the theme is, I added the following to my site's config.toml...
+
+```toml
+[module]
+[[module.imports]]
+    path = "github.com/jackbaty/hugo-theme-even"
+    disabled = false
+```
+
+With this in place, running `hugo mod get` will do its magic and use the code in the referenced Github repo as the site's theme. By default, modules seem to mount in "themes/", so this just works. It feels a little magic because nothing actually lives in "themes/". This took some gatting used to.
+
+But with the site using code from a (remote) repo, how do I work on the theme locally? I don't want to have to make a change in a local repo, then commit-push-get to test every little change. After some digging, I learned that Hugo has a ["replacements" feature in modules](https://gohugo.io/hugo-modules/configuration/#module-config-top-level).
+
+Replacements allow Hugo to temporarily use other mounts/modules. I only want to use my local copy of the theme while doing development, so I added the replacement as an environment variable in .zshrc like so:
+
+```sh
+export HUGO_MODULE_REPLACEMENTS="github.com/jackbaty/hugo-theme-even -> /Users/jbaty/dev/hugo-theme-even"
+```
+
+Now, when running hugo serve locally, it picks up my local repo automatically, but server builds will use the "real" repo from Github. Clever.
+
+[//]: # "Exported with love from a post written in Org mode"
+[//]: # "- https://github.com/kaushalmodi/ox-hugo"
