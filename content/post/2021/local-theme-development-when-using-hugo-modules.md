@@ -1,7 +1,7 @@
 ---
 title: "Local theme development when using Hugo Modules"
 date: 2021-05-27T00:00:00-04:00
-lastmod: 2021-05-27T09:15:17-04:00
+lastmod: 2021-05-27T09:16:53-04:00
 tags: ["hugo"]
 categories: ["Tech"]
 draft: false
@@ -21,7 +21,7 @@ I've forked an original theme ([Even](https://github.com/olOwOlo/hugo-theme-even
     disabled = false
 ```
 
-With this in place, running `hugo mod get` will do its magic and use the code in the referenced Github repo as the site's theme. By default, modules seem to mount in "themes/", so this just works. It feels a little magic because nothing actually lives in "themes/". This took some gatting used to.
+With this in place, running `hugo mod get` will do its magic and use the code in the referenced Github repo as the site's theme. By default, modules seem to mount in "themes/", so this just works. It feels a little magic because nothing actually lives in "themes/". This took some getting used to.
 
 But with the site using code from a (remote) repo, how do I work on the theme locally? I don't want to have to make a change in a local repo, then commit-push-get to test every little change. After some digging, I learned that Hugo has a ["replacements" feature in modules](https://gohugo.io/hugo-modules/configuration/#module-config-top-level).
 

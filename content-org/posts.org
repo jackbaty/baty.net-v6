@@ -31,7 +31,7 @@ I've forked an original theme ([[https://github.com/olOwOlo/hugo-theme-even][Eve
     disabled = false
 #+end_src
 
-With this in place, running =hugo mod get= will do its magic and use the code in the referenced Github repo as the site's theme. By default, modules seem to mount in "themes/", so this just works. It feels a little magic because nothing actually lives in "themes/". This took some gatting used to.
+With this in place, running =hugo mod get= will do its magic and use the code in the referenced Github repo as the site's theme. By default, modules seem to mount in "themes/", so this just works. It feels a little magic because nothing actually lives in "themes/". This took some getting used to.
 
 But with the site using code from a (remote) repo, how do I work on the theme locally? I don't want to have to make a change in a local repo, then commit-push-get to test every little change. After some digging, I learned that Hugo has a [[https://gohugo.io/hugo-modules/configuration/#module-config-top-level]["replacements" feature in modules]].
 
