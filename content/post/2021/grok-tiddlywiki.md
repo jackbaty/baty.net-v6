@@ -1,7 +1,8 @@
 ---
 title: "Grok TiddlyWiki"
 date: 2021-05-26T00:00:00-04:00
-lastmod: 2021-05-26T06:52:40-04:00
+lastmod: 2021-05-26T07:01:22-04:00
+tags: ["tiddlywiki"]
 draft: false
 weight: 2001
 ---

@@ -12,7 +12,7 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: post/2021
 :END:
-** DONE Grok TiddlyWiki
+** DONE Grok TiddlyWiki :tiddlywiki:
 :PROPERTIES:
 :EXPORT_FILE_NAME: grok-tiddlywiki
 :EXPORT_DATE: <2021-05-26 Wed>

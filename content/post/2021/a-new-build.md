@@ -11,4 +11,4 @@ I'm running a stock version of the theme [Even](https://github.com/olOwOlo/hugo-
 
 Feels good, but I don't know what I'll do with it.
 
-Oh, and the domain is "v6.baty.net". I figured that way I can change things up later without breaking URLs. I picked "v6" randomly, since we _must_ be on that version at least, right?
+Oh, and the domain is "v6.baty.net". I figured that way I can change things up later without breaking URLs or porting content. I picked "v6" randomly, since we _must_ be on that version at least, right?
