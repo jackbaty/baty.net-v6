@@ -18,7 +18,7 @@
 :EXPORT_DATE: <2021-05-27 Thu>
 :END:
 
-Recent versions of Hugo prefer the use of go "modules" for managing themes. This is new and a little weird to me, but I'm slowly beginning to understand it. I'm documenting the process here so I don't forget.
+Recent versions of [[https://gohugo.io][Hugo]] prefer the use of [[https://blog.golang.org/using-go-modules][Go Modules]] for managing themes. This is new and a little weird to me, but I'm slowly beginning to understand it. I'm documenting the process here so I don't forget.
 
 #+hugo: more
 
