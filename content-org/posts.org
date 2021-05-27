@@ -111,6 +111,26 @@ DONE I forget how fun ox-hugo is :@Meta:hugo:orgmode:
 #+end_example
 
 
+Oh, and here's the (ya)snippet:
+
+#+begin_src org
+# -*- mode: snippet -*-
+# name: Hugo
+# key: hugo
+# uuid: hugo
+# --
+TODO ${1:title}
+:PROPERTIES:
+:EXPORT_FILE_NAME: ${1:$(replace-regexp-in-string " " "-" (downcase yas-text))}
+:EXPORT_DATE:
+:END:
+
+$0
+#+end_src
+
+
+
+
 * About
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: /

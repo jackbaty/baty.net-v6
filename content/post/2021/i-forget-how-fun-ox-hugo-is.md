@@ -1,11 +1,11 @@
 ---
 title: "I forget how fun ox-hugo is"
 date: 2021-05-25T00:00:00-04:00
-lastmod: 2021-05-26T06:52:00-04:00
+lastmod: 2021-05-27T10:19:43-04:00
 tags: ["hugo", "orgmode"]
 categories: ["Meta"]
 draft: false
-weight: 2002
+weight: 2003
 ---
 
 [ox-hugo](https://ox-hugo.scripter.co) is "an Org exporter backend that exports Org to Hugo-compatible Markdown (Blackfriday) and also generates the front-matter (in TOML or YAML format)."
@@ -46,6 +46,23 @@ DONE I forget how fun ox-hugo is :@Meta:hugo:orgmode:
 :EXPORT_DATE: <2021-05-25 Tue>
 :ID:       3942bdfb-50c1-41d1-be0b-eec21b615047
 :END:
+```
+
+Oh, and here's the (ya)snippet:
+
+```org
+# -*- mode: snippet -*-
+# name: Hugo
+# key: hugo
+# uuid: hugo
+# --
+TODO ${1:title}
+:PROPERTIES:
+:EXPORT_FILE_NAME: ${1:$(replace-regexp-in-string " " "-" (downcase yas-text))}
+:EXPORT_DATE:
+:END:
+
+$0
 ```
 
 [//]: # "Exported with love from a post written in Org mode"
