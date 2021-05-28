@@ -64,7 +64,7 @@ Grok TiddlyWiki is a textbook that helps you build a deep, lasting understanding
 
 A chief complaint about TiddlyWiki is that it’s difficult to learn. This is not unfounded. The documentation is complete, but hard to parse and there are few resources for actually learning TiddlyWiki. Grok TiddlyWiki is a fantastic resource and if you’re even remotely interested in learning more about TiddlyWiki, it’s highly recommended. My goodness, TiddlyWiki is amazing.
 
-** DONE I forget how fun ox-hugo is :@Meta:hugo:orgmode:
+** DONE I almost forgot how fun ox-hugo is :@Meta:hugo:orgmode:
 :PROPERTIES:
 :EXPORT_HUGO_BUNDLE: i-forgot-how-fun-ox-hugo-is
 :EXPORT_FILE_NAME: index

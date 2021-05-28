@@ -1,7 +1,7 @@
 ---
-title: "I forget how fun ox-hugo is"
+title: "I almost forgot how fun ox-hugo is"
 date: 2021-05-25T00:00:00-04:00
-lastmod: 2021-05-28T05:44:47-04:00
+lastmod: 2021-05-28T09:00:13-04:00
 tags: ["hugo", "orgmode"]
 categories: ["Meta"]
 draft: false
