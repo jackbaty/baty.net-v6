@@ -1,7 +1,7 @@
 ---
 title: "I forget how fun ox-hugo is"
 date: 2021-05-25T00:00:00-04:00
-lastmod: 2021-05-27T10:19:43-04:00
+lastmod: 2021-05-28T05:44:47-04:00
 tags: ["hugo", "orgmode"]
 categories: ["Meta"]
 draft: false
@@ -48,7 +48,7 @@ DONE I forget how fun ox-hugo is :@Meta:hugo:orgmode:
 :END:
 ```
 
-Oh, and here's the (ya)snippet:
+Here's the (ya)snippet:
 
 ```org
 # -*- mode: snippet -*-
@@ -64,6 +64,12 @@ TODO ${1:title}
 
 $0
 ```
+
+And here's what the org document looks like in Emacs.
+
+{{< figure src="posts.png" >}}
+
+There's a whole blog in there!
 
 [//]: # "Exported with love from a post written in Org mode"
 [//]: # "- https://github.com/kaushalmodi/ox-hugo"
