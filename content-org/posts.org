@@ -1,17 +1,30 @@
 #+hugo_base_dir: ../
 #+hugo_section: ./
-
 #+hugo_weight: nil
 #+hugo_auto_set_lastmod: t
 #+hugo_front_matter_format: yaml
 #+hugo_front_matter_key_replace: description>summary author>nil
-#+category: blog
+#+category: Blog
 
 
 * 2021
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: post/2021
 :END:
+** DONE Added Goatcounter analytics
+   CLOSED: [2021-05-31 Mon 11:22]
+   :PROPERTIES:
+   :EXPORT_FILE_NAME: added-goatcounter-analytics
+   :EXPORT_DATE: <2021-05-31 Mon 11:20>
+   :END:
+
+Since [[https://www.goatcounter.com][Goatcounter]] is free for non-commercial use under 100,000 views per month, I thought I'd give it another try.
+
+#+hugo: more
+
+I've been using [[https://plausible.io/][Plausible Analytics]] for a long time and have no issues. Still, Goatcounter is free and at least as privacy-minded and who am I not to at least try it?
+
+
 ** DONE Running Doom and Nano emacs at the same time using Chemacs :@Tech:emacs:
 CLOSED: [2021-05-31 Mon 09:48]
 :PROPERTIES:
