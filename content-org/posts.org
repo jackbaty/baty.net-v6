@@ -1,7 +1,7 @@
 #+hugo_base_dir: ../
 #+hugo_section: ./
 
-#+hugo_weight: auto
+#+hugo_weight: nil
 #+hugo_auto_set_lastmod: t
 #+hugo_front_matter_format: yaml
 #+hugo_front_matter_key_replace: description>summary author>nil
