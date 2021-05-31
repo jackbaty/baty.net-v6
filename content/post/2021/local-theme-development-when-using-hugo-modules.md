@@ -1,11 +1,11 @@
 ---
 title: "Local theme development when using Hugo Modules"
 date: 2021-05-27T00:00:00-04:00
-lastmod: 2021-05-27T09:22:50-04:00
+lastmod: 2021-05-31T07:39:36-04:00
 tags: ["hugo"]
 categories: ["Tech"]
 draft: false
-weight: 2001
+weight: 2002
 ---
 
 Recent versions of [Hugo](https://gohugo.io) prefer the use of [Go Modules](https://blog.golang.org/using-go-modules) for managing themes. This is new and a little weird to me, but I'm slowly beginning to understand it. I'm documenting the process here so I don't forget.
