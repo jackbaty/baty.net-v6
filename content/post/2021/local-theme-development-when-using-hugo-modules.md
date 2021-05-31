@@ -1,7 +1,7 @@
 ---
 title: "Local theme development when using Hugo Modules"
 date: 2021-05-27T00:00:00-04:00
-lastmod: 2021-05-31T09:27:23-04:00
+lastmod: 2021-05-31T11:36:56-04:00
 tags: ["hugo"]
 categories: ["Tech"]
 draft: false
@@ -35,7 +35,7 @@ Now, when running hugo serve locally, it picks up my local repo automatically, b
 
 And so far, all of this "Just Works" when deploying to Netlify.
 
-UPDATE: I've learned that in order for Hugo/Netlify to pick up changes to the remote theme repo, there must be a "release" created in Github.
+UPDATE: I've learned that in order for Hugo/Netlify to pick up changes to the remote theme repo, there must be a "release" created in Github. Also, I've changed the build command from just \`hugo\` to \`hugo mod get && hugo\` otherwise it doesn't always seem to pick up the new theme release.
 
 [//]: # "Exported with love from a post written in Org mode"
 [//]: # "- https://github.com/kaushalmodi/ox-hugo"
