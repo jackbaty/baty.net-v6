@@ -1,10 +1,10 @@
 ---
 title: "Running Doom and Nano emacs at the same time using Chemacs"
-date: 2021-05-31T09:30:00-04:00
-lastmod: 2021-05-31T09:37:57-04:00
+date: 2021-05-31T09:48:00-04:00
+lastmod: 2021-05-31T09:48:33-04:00
 tags: ["emacs"]
 categories: ["Tech"]
-draft: true
+draft: false
 weight: 0
 ---
 

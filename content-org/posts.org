@@ -12,7 +12,8 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: post/2021
 :END:
-** TODO Running Doom and Nano emacs at the same time using Chemacs :@Tech:emacs:
+** DONE Running Doom and Nano emacs at the same time using Chemacs :@Tech:emacs:
+CLOSED: [2021-05-31 Mon 09:48]
 :PROPERTIES:
 :EXPORT_HUGO_BUNDLE: doom-and-nano-at-same-time-chemacs
 :EXPORT_FILE_NAME: index
