@@ -1,7 +1,8 @@
 ---
 title: "I no longer enjoy writing code"
 date: 2021-05-31T00:00:00-04:00
-lastmod: 2021-05-31T07:42:01-04:00
+lastmod: 2021-05-31T07:52:42-04:00
+categories: ["Tech"]
 draft: false
 weight: 2001
 ---
@@ -18,7 +19,8 @@ Now that I've lagged so far behind "state of the art," it feels impossible to ca
 
 But, I admit that the way I did things isn't nearly good enough today. Maybe that's why I give up so quickly. It's not fun like it was in the Good Old Days™. At least it's not fun for me.
 
-Front-end web dev is, to me, mired in frameworks and "best practices" that maybe shouldn't be. Perhaps I should look into Ops, or ML or AI or AR. Maybe learn Go or Clojure or, if I'm feeling feisty, Rust.
+Front-end web dev is, to me, mired in frameworks and "best practices" that maybe shouldn't be.
+Maybe it's not that I don't like writing code, maybe it's the bog-standard JavaScript-riddled front end development I don't like. Perhaps I should look into Ops, or ML or AI or AR. Maybe learn Go or Clojure or, if I'm feeling feisty, Rust.
 
 Or maybe instead I should just get that paper route I always wanted.
 

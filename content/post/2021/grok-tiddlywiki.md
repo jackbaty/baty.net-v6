@@ -1,10 +1,10 @@
 ---
 title: "Grok TiddlyWiki"
 date: 2021-05-26T00:00:00-04:00
-lastmod: 2021-05-26T07:01:22-04:00
+lastmod: 2021-05-31T07:49:17-04:00
 tags: ["tiddlywiki"]
 draft: false
-weight: 2001
+weight: 2003
 ---
 
 [Soren Bjornstad](https://sorenbjornstad.com/) has recently released the first edition of [Grok TiddlyWiki](https://groktiddlywiki.com/read/) and it's terrific.

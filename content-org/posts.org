@@ -12,7 +12,7 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: post/2021
 :END:
-** DONE I no longer enjoy writing code
+** DONE I no longer enjoy writing code :@Tech:
 :PROPERTIES:
 :EXPORT_FILE_NAME: i-no-longer-enjoy-writing-code
 :EXPORT_DATE: <2021-05-31 Mon>
@@ -30,11 +30,10 @@ Now that I've lagged so far behind "state of the art," it feels impossible to ca
 
 But, I admit that the way I did things isn't nearly good enough today. Maybe that's why I give up so quickly. It's not fun like it was in the Good Old Days™. At least it's not fun for me.
 
-Front-end web dev is, to me, mired in frameworks and "best practices" that maybe shouldn't be. Perhaps I should look into Ops, or ML or AI or AR. Maybe learn Go or Clojure or, if I'm feeling feisty, Rust.
+Front-end web dev is, to me, mired in frameworks and "best practices" that maybe shouldn't be.
+Maybe it's not that I don't like writing code, maybe it's the bog-standard JavaScript-riddled front end development I don't like. Perhaps I should look into Ops, or ML or AI or AR. Maybe learn Go or Clojure or, if I'm feeling feisty, Rust.
 
 Or maybe instead I should just get that paper route I always wanted.
-
-
 ** DONE Local theme development when using Hugo Modules :hugo:@Tech:
 :PROPERTIES:
 :EXPORT_FILE_NAME: local-theme-development-when-using-hugo-modules

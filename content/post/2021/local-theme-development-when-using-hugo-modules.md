@@ -1,7 +1,7 @@
 ---
 title: "Local theme development when using Hugo Modules"
 date: 2021-05-27T00:00:00-04:00
-lastmod: 2021-05-31T07:39:36-04:00
+lastmod: 2021-05-31T07:50:05-04:00
 tags: ["hugo"]
 categories: ["Tech"]
 draft: false
