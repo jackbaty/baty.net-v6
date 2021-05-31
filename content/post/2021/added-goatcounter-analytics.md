@@ -1,7 +1,7 @@
 ---
 title: "Added Goatcounter analytics"
 date: 2021-05-31T11:22:00-04:00
-lastmod: 2021-05-31T11:27:15-04:00
+lastmod: 2021-05-31T11:32:27-04:00
 draft: false
 weight: 0
 ---
