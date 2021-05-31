@@ -1,10 +1,10 @@
 ---
 title: "I no longer enjoy writing code"
 date: 2021-05-31T00:00:00-04:00
-lastmod: 2021-05-31T07:52:42-04:00
+lastmod: 2021-05-31T09:27:03-04:00
 categories: ["Tech"]
 draft: false
-weight: 2001
+weight: 0
 ---
 
 I was never a great programmer, but I was a pretty good _developer_. By this I mean that I could solve real problems for people by writing software.

@@ -12,6 +12,31 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: post/2021
 :END:
+** TODO Running Doom and Nano emacs at the same time using Chemacs :@Tech:emacs:
+:PROPERTIES:
+:EXPORT_HUGO_BUNDLE: doom-and-nano-at-same-time-chemacs
+:EXPORT_FILE_NAME: index
+:EXPORT_DATE: <2021-05-31 Mon 09:30>
+:END:
+
+Most of the time I use a [[https://github.com/hlissner/doom-emacs][Doom Emacs]] configuration, but sometimes I feel like testing something new. I've been enamored by [[https://github.com/rougier/nano-emacs][Nano Emacs]] lately, but there's no way I'll switch to it permanently.
+
+Today I learned about [[https://github.com/plexus/chemacs2][Chemacs]].
+
+#+hugo: more
+
+#+begin_quote
+Chemacs 2 is an Emacs profile switcher, it makes it easy to run multiple Emacs configurations side by side.
+#+end_quote
+
+So I configured Chemacs and added profiles for my default Doom config and also one for Nano. This is crazy, but I can now run both configurations /at the same time/!. Here's a screenshot. The left window is Org-journal in Nano and the right window is my org-mode configuration in Doom.
+
+[[file:two-emacs.png]]
+
+Here's a helpful video showing how it all works: https://www.youtube.com/watch?v=hHdM2wVM1PI
+
+
+
 ** DONE I no longer enjoy writing code :@Tech:
 :PROPERTIES:
 :EXPORT_FILE_NAME: i-no-longer-enjoy-writing-code
@@ -76,7 +101,6 @@ UPDATE: I've learned that in order for Hugo/Netlify to pick up changes to the re
 :END:
 
 [[https://sorenbjornstad.com/][Soren Bjornstad]] has recently released the first edition of [[https://groktiddlywiki.com/read/][Grok TiddlyWiki]] and it's terrific.
-
 
 #+begin_quote
 Grok TiddlyWiki is a textbook that helps you build a deep, lasting understanding of and proficiency with TiddlyWiki through a combination of detailed explanations, practical exercises, and spaced-repetition reviews of prompts called takeaways.
