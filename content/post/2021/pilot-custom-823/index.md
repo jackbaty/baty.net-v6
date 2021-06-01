@@ -1,16 +1,16 @@
 ---
 title: "Pilot Custom 823 Fountain Pen"
 date: 2021-06-01T13:58:00-04:00
-lastmod: 2021-06-01T13:58:52-04:00
+lastmod: 2021-06-01T14:01:14-04:00
 draft: false
 weight: 0
 ---
 
-{{< figure src="823.jpg" >}}
-
 It's been a while since I bought a new fountain pen. This is about the **Pilot Custom 823**.
 
 <!--more-->
+
+{{< figure src="823.jpg" >}}
 
 Literally every review I've read says the same things: "It's not a looker, but what a great writer!" I can only resist that kind of consensus for so long, so I bought one. I got the "smoke" color and the fine nib. I [got it from JetPens](https://www.jetpens.com/Pilot-Custom-823-Fountain-Pen-Black-Body-Fine-Nib/pd/21024) for $270. I'd say this puts it well into significant purchase territory, so I was very excited when it arrived.
 
