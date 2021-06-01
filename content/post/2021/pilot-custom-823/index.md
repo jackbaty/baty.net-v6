@@ -1,7 +1,7 @@
 ---
 title: "Pilot Custom 823 Fountain Pen"
 date: 2021-06-01T13:58:00-04:00
-lastmod: 2021-06-01T14:21:43-04:00
+lastmod: 2021-06-01T14:24:21-04:00
 draft: false
 weight: 0
 ---
@@ -26,7 +26,7 @@ It's possible I got a bum copy, but I'm loathe to ship things back and wait so I
 
 First, I will run it with some different inks. I typically use one of the quick-drying Nooder inks like [Bernanke Blue](https://noodlersink.com/product/19067-bernanke-blue/), but maybe something "wetter" will fare better.
 
-I could try different paper, but that's not helpful since I have no interest in anything other than the Leuchtturm notebooks for most writing. I did write a little in the Hobonichi Techo and things were better. Tamoe River paper is the greatest, but I don't the notebooks that use it (other than the Techo, that is, but I don't journal in the Techo.)
+I could try different paper, but that's not helpful since I have no interest in anything other than the Leuchtturm notebooks for most writing. I did write a little in the Hobonichi Techo and things were better. Tamoe River paper is the greatest, but I don't like most of the notebooks that use it (other than the Techo, that is, but I don't journal in the Techo.)
 
 If these don't help, I'll advance to something more drastic, such as physically spreading the nib by pulling it apart at the shoulder, just a little. If that doesn't help with the flow, I'll send it to a "nibmeister" for tweaking. I normally would scoff at doing that, but years ago I sent my Pelikan to Richard Binder and it came back flawless. Still is.
 
