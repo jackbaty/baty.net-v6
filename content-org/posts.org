@@ -11,6 +11,47 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: post/2021
 :END:
+** DONE Creating a digital index for my notebooks
+   CLOSED: [2021-06-02 Wed 10:50]
+   :PROPERTIES:
+   :EXPORT_HUGO_BUNDLE: creating-a-digital-index-for-my-notebooks
+   :EXPORT_FILE_NAME: index
+   :EXPORT_DATE: <2021-06-02 Wed 10:00>
+   :END:
+
+   One of the few valid arguments against paper notebooks is that they are more difficult to search than digital notes. Fine, I'll concede that one. But I'm working on a patch for that.
+
+#+hugo: more
+
+Rather than trying to digitize/OCR /everything/, I've decided that a simple index of topics should be sufficient. While rummaging around for ways to do this, I found [[https://github.com/sobjornstad/mindex][Soren Bjornstad's mindex]]. Mindex is a small Python script that takes some input and generates a concise LaTeX-then-PDF index based on a simple text (.mindex) file.
+
+Here's a section of the .mindex file for my current notebook:
+
+#+begin_example
+Books       32
+Charlie     37-41
+COVID-19    23,32,39
+Creativity  43
+Crypto      35
+Devices     34
+Fusionary   21, 26
+Health      26,41
+Investing   26
+Journaling  21,37
+#+end_example
+
+It's a tab-delimited file with Topic->Pages->Sort Key. The third column, Sort Key, allows for tweaking of where each entry ends up in the final index. I've not needed to use that yet, though.
+
+I wanted a few minor formatting changes so I forked Soren's repo to https://github.com/jackbaty/mindex and tweaked it a little. Here's the current output:
+
+
+#+caption: Index sample
+[[file:notebook-index.png]]
+
+I think it looks nice. LaTeX is awesome. I'm planning to update the index once a month or so. I just did it for May and it only took about 10 minutes. That's not too high a price to pay for the ability to find things more quickly. Once a notebook is complete I may print a copy and insert it right into that notebook.
+
+I'm still thinking about how to best manage this, but it's a nice start.
+
 ** DONE Pilot Custom 823 Fountain Pen
 CLOSED: [2021-06-01 Tue 13:58]
    :PROPERTIES:
@@ -49,7 +90,6 @@ I don't want to doubt the nearly unanimous consensus about the Pilot Custom 823,
 
 [[file:2021-06-01-_R0001218.jpg]]
 
-
 ** DONE Added Goatcounter analytics
    CLOSED: [2021-05-31 Mon 11:22]
    :PROPERTIES:
@@ -86,8 +126,6 @@ So I configured Chemacs and added profiles for my default Doom config and also o
 [[file:two-emacs.png]]
 
 Here's a helpful video showing how it all works: https://www.youtube.com/watch?v=hHdM2wVM1PI
-
-
 
 ** DONE I no longer enjoy writing code :@Tech:
 :PROPERTIES:

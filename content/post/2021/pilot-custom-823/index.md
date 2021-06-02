@@ -1,7 +1,7 @@
 ---
 title: "Pilot Custom 823 Fountain Pen"
 date: 2021-06-01T13:58:00-04:00
-lastmod: 2021-06-01T14:24:21-04:00
+lastmod: 2021-06-01T18:37:46-04:00
 draft: false
 weight: 0
 ---
