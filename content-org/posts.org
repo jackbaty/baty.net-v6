@@ -103,6 +103,8 @@ Since [[https://www.goatcounter.com][Goatcounter]] is free for non-commercial us
 
 I've been using [[https://plausible.io/][Plausible Analytics]] for a long time and have no issues. Still, Goatcounter is free and at least as privacy-minded and who am I not to at least try it?
 
+UPDATE 2021-06-05: I still find Goatcounter too hard to parse, so I'm removing it.
+
 ** DONE Running Doom and Nano emacs at the same time using Chemacs :@Tech:emacs:
    CLOSED: [2021-05-31 Mon 09:48]
    :PROPERTIES:
