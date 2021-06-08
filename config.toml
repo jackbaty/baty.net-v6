@@ -12,7 +12,7 @@ title = "Jack Baty"
 # whether to use robots.txt
 enableRobotsTXT = true
 # whether to use git commit log
-enableGitInfo = true
+enableGitInfo = false
 # whether to use emoji code
 enableEmoji = true
 
@@ -233,7 +233,7 @@ ignoreErrors = ["error-remote-getjson"]
   # site default theme ("light", "dark", "auto")
   defaultTheme = "auto"
   # public git repo url only then enableGitInfo is true
-  gitRepo = "https://github.com/sunt-programator/CodeIT"
+  gitRepo = "https://github.com/jackbaty/CodeIT"
   # which hash function used for SRI, when empty, no SRI is used ("sha256", "sha384", "sha512", "md5")
   fingerprint = "sha256"
   # date format
@@ -363,23 +363,23 @@ ignoreErrors = ["error-remote-getjson"]
     [params.page.share]
       enable = true
       Twitter = true
-      Facebook = true
+      Facebook = false
       Linkedin = false
       Whatsapp = false
       Pinterest = false
       Tumblr = false
-      HackerNews = true
+      HackerNews = false
       Reddit = false
       VK = false
       Buffer = false
       Xing = false
-      Line = true
+      Line = false
       Instapaper = false
       Pocket = false
       Digg = false
       Stumbleupon = false
       Flipboard = false
-      Weibo = true
+      Weibo = false
       Renren = false
       Myspace = false
       Blogger = false
