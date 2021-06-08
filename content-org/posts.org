@@ -11,6 +11,26 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: posts/2021
 :END:
+** DONE DHH on Apple and Spy Pixels
+CLOSED: [2021-06-08 Tue 11:18]
+:PROPERTIES:
+:EXPORT_FILE_NAME: dhh-on-apple-and-spy-pixels
+:EXPORT_DATE: <2021-06-08 Tue 11:18>
+:EXPORT_DESCRIPTION: In which DHH overestimates his influence.
+:END:
+
+[[https://world.hey.com/dhh/email-spy-pixels-are-dead-now-that-apple-will-follow-hey-eb66b759][DHH]]:
+
+<blockquote class="quoteback" darkmode="" data-title="Email spy pixels are dead now that Apple will follow HEY" data-author="" cite="https://world.hey.com/dhh/email-spy-pixels-are-dead-now-that-apple-will-follow-hey-eb66b759">
+Apple has announced they'll follow our lead, and block those abusive little beacons this Fall. Bam.
+<footer><cite> <a href="https://world.hey.com/dhh/email-spy-pixels-are-dead-now-that-apple-will-follow-hey-eb66b759">https://world.hey.com/dhh/email-spy-pixels-are-dead-now-that-apple-will-follow-hey-eb66b759</a></cite></footer>
+</blockquote><script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
+
+While I suppose it's possible that Apple saw what HEY was doing and thought, "Now there's a good idea, we should do that!". Possible, but I think maybe DHH is overestimating Basecamp's influence.
+
+
+
+
 ** DONE New theme - CodeIT :hugo:blogging:@Meta:
 CLOSED: [2021-06-08 Tue 10:00]
 :PROPERTIES:
