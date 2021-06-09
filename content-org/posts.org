@@ -9,7 +9,7 @@
 
 * 2021
 :PROPERTIES:
-:EXPORT_HUGO_SECTION: posts/2021
+:EXPORT_HUGO_SECTION: post/2021
 :END:
 ** DONE DHH on Apple and Spy Pixels
 CLOSED: [2021-06-08 Tue 11:18]
@@ -42,6 +42,8 @@ The theme I was using here had an annoying behavior, so I got a new one.
 My original theme, based on Even, did this thing where the content would jump just a little whenever the page loaded. It was driving me nuts, and I couldn't figure out what was causing it, so I punted and forked [[https://github.com/sunt-programator/CodeIT][CodeIT]].
 
 You may recognize CodeIT because it was what I used before [[https://archive.baty.net][archiving baty.net]] a few months ago.
+
+*UPDATE 2021-06-09*: Nope. I like Even better and am willing to take the hit on the "jumping" behavior if I'm unable to figure out what's causing it.
 
 ** DONE Creating a digital index for my notebooks
    CLOSED: [2021-06-02 Wed 10:50]
