@@ -22,6 +22,8 @@ disqusShortname = ""      # disqus_shortname
 googleAnalytics = ""      # UA-XXXXXXXX-X
 copyright = ""            # default: author.name ↓        # 默认为下面配置的author.name ↓
 
+
+
 [author]                  # essential                     # 必需
   name = "Jack Baty"
 
@@ -238,6 +240,9 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
 #  taxonomyTerm = ["HTML"]
 [module]
 [[module.imports]]
-    path = "github.com/olOwOlo/hugo-theme-even"
-    #path = "github.com/jackbaty/hugo-theme-even"
+    #path = "github.com/olOwOlo/hugo-theme-even"
+    path = "github.com/jackbaty/hugo-theme-even"
     disabled = false
+
+[permalinks]
+post = "/:year/:title/"
