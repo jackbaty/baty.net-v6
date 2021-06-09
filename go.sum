@@ -4,6 +4,8 @@ github.com/jackbaty/hugo-theme-even v4.1.0+incompatible h1:UTEHUMUO3dWbKY8cjvVpr
 github.com/jackbaty/hugo-theme-even v4.1.0+incompatible/go.mod h1:dGU67rWONwavTp/yKDhon0BJxKhpmxkvMX+VymFs7rw=
 github.com/jackbaty/hugo-theme-even v4.1.1+incompatible h1:wLaIOVszS9llfsIJDfGrflVgXh7DE201/NFb10tRbmE=
 github.com/jackbaty/hugo-theme-even v4.1.1+incompatible/go.mod h1:dGU67rWONwavTp/yKDhon0BJxKhpmxkvMX+VymFs7rw=
+github.com/jackbaty/hugo-theme-even v4.2.3+incompatible h1:FAWLLVaBkJk8JEW30EASxbYeYHHlsQHEgfUJbAM/eCM=
+github.com/jackbaty/hugo-theme-even v4.2.3+incompatible/go.mod h1:dGU67rWONwavTp/yKDhon0BJxKhpmxkvMX+VymFs7rw=
 github.com/jackbaty/uBlogger v2.0.4+incompatible h1:+mHY5M8bcgxZop0tsbRKi9B+uTw5XCrl9xX67z4WRHU=
 github.com/jackbaty/uBlogger v2.0.4+incompatible/go.mod h1:UXF/PhojwqG1YNEn+OixXUHBUgvigXM5WkvMIG0Vre8=
 github.com/kimcc/hugo-theme-noteworthy v0.0.0-20200418051556-de668f23496e h1:xiJ6PUHYvT7ZurAB+T33RlbKatp6kp9SvRUgV9AmnSU=
