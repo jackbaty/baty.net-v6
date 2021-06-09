@@ -2,7 +2,7 @@
 title: "DHH on Apple and Spy Pixels"
 summary: "In which DHH overestimates his influence."
 date: 2021-06-08T11:18:00-04:00
-lastmod: 2021-06-08T11:18:47-04:00
+lastmod: 2021-06-08T11:27:01-04:00
 draft: false
 weight: 0
 ---

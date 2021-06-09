@@ -28,9 +28,6 @@ Apple has announced they'll follow our lead, and block those abusive little beac
 
 While I suppose it's possible that Apple saw what HEY was doing and thought, "Now there's a good idea, we should do that!". Possible, but I think maybe DHH is overestimating Basecamp's influence.
 
-
-
-
 ** DONE New theme - CodeIT :hugo:blogging:@Meta:
 CLOSED: [2021-06-08 Tue 10:00]
 :PROPERTIES:
