@@ -11,6 +11,18 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: post/2021
 :END:
+** DONE An excuse to use Emacs - this blog :@Meta:Hugo:
+CLOSED: [2021-06-11 Fri 06:59]
+:PROPERTIES:
+:EXPORT_FILE_NAME: an-excuse-to-use-emacs-this-blog
+:EXPORT_DATE: <2021-06-11 Fri 06:59>
+:END:
+
+If I'm being honest, I created this v6.baty.net blog as an excuse to mess with Hugo and generating its Markdown files using Org mode.
+
+I love me a static website, but I grow lazy and sometimes posting this way is just too much work, ya know? I'll keep it around, but it's likely that most of my posts will be made over at [[https://copingmechanism.com][Coping Mechanism]].
+
+
 ** DONE DHH on Apple and Spy Pixels
 CLOSED: [2021-06-08 Tue 11:18]
 :PROPERTIES:
