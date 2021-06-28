@@ -11,11 +11,12 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: posts/2021
 :END:
-** TODO The iPad is a wonderful peripheral
+** DONE The iPad is a wonderful peripheral
+CLOSED: [2021-06-28 Mon 10:39]
 :PROPERTIES:
 :EXPORT_FILE_NAME: back-into-the-comforting-arms-of-org-mode
 :EXPORT_DESCRIPTION: The iPad may be the greatest computer peripheral ever made.
-:EXPORT_DATE:
+:EXPORT_DATE: <2021-06-28 Mon 10:40>
 :END:
 
 The iPad may be the greatest computer peripheral ever made. As a main device for me, though, it's once again been a spectacular failure.
