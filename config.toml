@@ -586,7 +586,7 @@ ignoreErrors = ["error-remote-getjson"]
 # Permalinks config (https://gohugo.io/content-management/urls/#permalinks)
 [Permalinks]
   # posts = ":year/:month/:filename"
-  posts = ":filename"
+  posts = ":year/:filename"
 
 # Privacy config (https://gohugo.io/about/hugo-and-gdpr/)
 [privacy]
