@@ -1,5 +1,7 @@
 github.com/jackbaty/CodeIT v0.1.2 h1:FLA+dq/kmCCfMthlL2+GXTxFXgAQwPaH+pCFZ6ualfk=
 github.com/jackbaty/CodeIT v0.1.2/go.mod h1:VHEI/ESw76PKlFyPuCEJQOQm0AKMRdVom6XLJGHNUTs=
+github.com/jackbaty/CodeIT v0.1.3 h1:sl0+oOSvDq8rtPIy7knjToCtzIctBx7phmV/OuufPWU=
+github.com/jackbaty/CodeIT v0.1.3/go.mod h1:VHEI/ESw76PKlFyPuCEJQOQm0AKMRdVom6XLJGHNUTs=
 github.com/jackbaty/hugo-theme-even v4.1.0+incompatible h1:UTEHUMUO3dWbKY8cjvVpry2h4lhyIwt+jFldiEKg5I4=
 github.com/jackbaty/hugo-theme-even v4.1.0+incompatible/go.mod h1:dGU67rWONwavTp/yKDhon0BJxKhpmxkvMX+VymFs7rw=
 github.com/jackbaty/hugo-theme-even v4.1.1+incompatible h1:wLaIOVszS9llfsIJDfGrflVgXh7DE201/NFb10tRbmE=

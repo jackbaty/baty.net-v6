@@ -1,7 +1,7 @@
 ---
 title: "An excuse to use Emacs - this blog"
 date: 2021-06-11T06:59:00-04:00
-lastmod: 2021-06-11T07:00:14-04:00
+lastmod: 2021-06-28T10:29:39-04:00
 tags: ["Hugo"]
 categories: ["Meta"]
 draft: false
