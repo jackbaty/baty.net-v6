@@ -11,7 +11,7 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: posts/2021
 :END:
-** DONE The iPad is a wonderful peripheral
+** DONE The iPad is a wonderful peripheral :@Tech:
 CLOSED: [2021-06-28 Mon 10:39]
 :PROPERTIES:
 :EXPORT_FILE_NAME: ipad-is-a-wonderful-peripheral
@@ -73,7 +73,7 @@ The theme I was using here had an annoying behavior, so I got a new one.
 My original theme, based on Even, did this thing where the content would jump just a little whenever the page loaded. It was driving me nuts, and I couldn't figure out what was causing it, so I punted and forked [[https://github.com/sunt-programator/CodeIT][CodeIT]].
 
 You may recognize CodeIT because it was what I used before [[https://archive.baty.net][archiving baty.net]] a few months ago.
-** DONE Creating a digital index for my notebooks
+** DONE Creating a digital index for my paper notebooks
    CLOSED: [2021-06-02 Wed 10:50]
    :PROPERTIES:
    :EXPORT_HUGO_BUNDLE: creating-a-digital-index-for-my-notebooks

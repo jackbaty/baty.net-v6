@@ -1,7 +1,7 @@
 ---
-title: "Creating a digital index for my notebooks"
+title: "Creating a digital index for my paper notebooks"
 date: 2021-06-02T10:50:00-04:00
-lastmod: 2021-06-02T10:51:00-04:00
+lastmod: 2021-06-28T13:58:38-04:00
 draft: false
 weight: 0
 ---

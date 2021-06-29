@@ -2,7 +2,8 @@
 title: "The iPad is a wonderful peripheral"
 summary: "The iPad may be the greatest computer peripheral ever made."
 date: 2021-06-28T10:39:00-04:00
-lastmod: 2021-06-28T10:40:42-04:00
+lastmod: 2021-06-28T13:55:16-04:00
+categories: ["Tech"]
 draft: false
 weight: 0
 ---
