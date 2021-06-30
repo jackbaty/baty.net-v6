@@ -11,6 +11,30 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: posts/2021
 :END:
+** DONE surge.sh :@Tech:
+   CLOSED: [2021-06-30 Wed 07:41]
+   :PROPERTIES:
+   :EXPORT_FILE_NAME: surge.sh
+   :EXPORT_DESCRIPTION:
+   :EXPORT_DATE: <2021-06-30 Wed 07:30>
+   :END:
+
+I tried [[https://surge.sh][Surge.sh]] and it's pretty slick.
+
+#+begin_quote
+Static web publishing for Front-End Developers
+
+Simple, single-command web publishing. Publish HTML, CSS, and JS for free, without leaving the command line.
+#+end_quote
+
+It's great that there's a generous free tier, but it comes with a couple limitations.
+
+- The free tier does not support redirects
+- The free tier does not automatically redirect http->https
+- Deployment is not based on diffs. The entire app is re-uploaded each time.
+
+I tried it with baty.net and was able to create my account and deploy the site to a .surge.sh subdomain in just a few lines in the terminal. That was neat. I may try it for smaller or infrequently-deployed static sites.
+
 ** DONE The iPad is a wonderful peripheral :@Tech:
 CLOSED: [2021-06-28 Mon 10:39]
 :PROPERTIES:
