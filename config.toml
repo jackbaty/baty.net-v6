@@ -1,4 +1,4 @@
-baseURL = "https://v6.baty.net"
+baseURL = "https://www.baty.blog"
 # [en, zh-cn, fr, pl, ...] determines default content language
 defaultContentLanguage = "en"
 # theme
@@ -445,7 +445,7 @@ ignoreErrors = ["error-remote-getjson"]
         outlined = false
       # Commento comment config (https://commento.io/)
       [params.page.comment.commento]
-        enable = false
+        enable = true
       # Utterances comment config (https://utteranc.es/)
       [params.page.comment.utterances]
         enable = false
