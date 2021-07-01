@@ -11,6 +11,27 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: posts/2021
 :END:
+** DONE Bitcoin, Currencies, and Bubbles - Nassim Nicholas Taleb :@Tech:Bitcoin:Crypto:
+CLOSED: [2021-07-01 Thu 16:29]
+:PROPERTIES:
+:EXPORT_FILE_NAME: bitcoin-currencies-and-bubbles
+:EXPORT_DESCRIPTION: No, there is no evidence that we are getting a great technology — unless "great technology" doesn't mean "useful".
+:EXPORT_DATE: <2021-07-01 Thu 16:30>
+:END:
+
+From the paper [[https://www.academia.edu/49313911/Bitcoin_Currencies_and_Bubbles][Bitcoin, Currencies, and Bubbles]]:
+
+#+begin_quote
+In its current version, in spite of the hype, bitcoin failed to satisfy the notion of "currency without government" (it proved to not even be a currency at all), can be neither a short nor long term store of value (its expected value is no higher than 0), cannot operate as a reliableinflation hedge, and, worst of all, does not constitute, not even remotely, a safe haven for one’s investments, a shield against government tyranny, nor a tail protection vehicle for catastrophic episodes.
+#+end_quote
+
+And later:
+
+#+begin_quote
+The customary standard argument is "bitcoin has its ﬂaws but we are getting a great technology, we will do wonders with the blockchain". No, there is noevidence that we are getting a great technology — unless"great technology" doesn’t mean "useful". And we have done at the time of writing—in spite of all the fanfare—still close to nothing with the blockchain. So we close with a Damascus joke. One vendor was sellingthe exact same variety of cucumbers at two different prices."Why is this one twice the price?", the merchant was asked." They came on higher quality mules" was the answer. We only judge a technology by how it solves problems, not in what technological attributes it has.
+#+end_quote
+
+
 ** DONE Domain change - We're now at baty.blog :@Meta:
 CLOSED: [2021-07-01 Thu 08:28]
 :PROPERTIES:
