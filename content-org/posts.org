@@ -11,6 +11,18 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: posts/2021
 :END:
+** DONE Domain change - We're now at baty.blog :@Meta:
+CLOSED: [2021-07-01 Thu 08:28]
+:PROPERTIES:
+:EXPORT_FILE_NAME: now-at-baty.blog
+:EXPORT_DESCRIPTION: I'm sorry, but I changed the domain for this blog again
+:EXPORT_DATE: <2021-07-01 Thu 08:30>
+:END:
+
+I've concluded that the v6.baty.net domain was a dumb idea and I'm retiring it. To kill two birds with one stone, I'm also retiring my blot.im blog and commandeering that domain for use here. So we're now at baty.blog.
+
+I'm sorry if this breaks things. I'll move the original Blot content here as time allows.
+
 ** DONE surge.sh :@Tech:
    CLOSED: [2021-06-30 Wed 07:41]
    :PROPERTIES:
