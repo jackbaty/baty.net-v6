@@ -2,7 +2,7 @@
 title: "Bitcoin, Currencies, and Bubbles - Nassim Nicholas Taleb"
 summary: "No, there is no evidence that we are getting a great technology — unless \"great technology\" doesn't mean \"useful\"."
 date: 2021-07-01T16:29:00-04:00
-lastmod: 2021-07-01T16:29:34-04:00
+lastmod: 2021-07-06T10:28:55-04:00
 tags: ["Bitcoin", "Crypto"]
 categories: ["Tech"]
 draft: false

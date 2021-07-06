@@ -11,6 +11,23 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: posts/2021
 :END:
+** DONE I just can't get into Obsidian :@Tech:Obsidian:PKM:
+CLOSED: [2021-07-06 Tue 10:29]
+:PROPERTIES:
+:EXPORT_FILE_NAME: i-just-cant-get-into-obsidian
+:EXPORT_DATE: <2021-07-06 Tue 10:29>
+:END:
+
+I want to put all my long-term thinking into a nice, future-proof, private-first folder full of text files, I really do.
+
+[[https://obsidian.md][Obsidian]] should be ideal for this, but I just can't get into it. I've tried so many times.
+
+- =CTRL-n= and =CTRL-p= (Emacs) bindings don't work in lists (such as the switcher and command palettes) like they do in nearly every other app on my Mac
+- I don't like how it looks
+- I don't like how it /feels/ (it's no real Mac app, that's for sure)
+- The Daily Notes feature is not as smooth or useful
+
+This is disappointing for me, because Obsidian otherwise ticks all the right boxes. Unfortunately, if I'm not feeling it, I won't be using it.
 ** DONE Bitcoin, Currencies, and Bubbles - Nassim Nicholas Taleb :@Tech:Bitcoin:Crypto:
 CLOSED: [2021-07-01 Thu 16:29]
 :PROPERTIES:
@@ -30,7 +47,6 @@ And later:
 #+begin_quote
 The customary standard argument is "bitcoin has its ﬂaws but we are getting a great technology, we will do wonders with the blockchain". No, there is noevidence that we are getting a great technology — unless"great technology" doesn’t mean "useful". And we have done at the time of writing—in spite of all the fanfare—still close to nothing with the blockchain. So we close with a Damascus joke. One vendor was sellingthe exact same variety of cucumbers at two different prices."Why is this one twice the price?", the merchant was asked." They came on higher quality mules" was the answer. We only judge a technology by how it solves problems, not in what technological attributes it has.
 #+end_quote
-
 
 ** DONE Domain change - We're now at baty.blog :@Meta:
 CLOSED: [2021-07-01 Thu 08:28]
