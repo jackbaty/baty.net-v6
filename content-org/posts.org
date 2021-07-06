@@ -14,6 +14,7 @@
 ** DONE I just can't get into Obsidian :@Tech:Obsidian:PKM:
 CLOSED: [2021-07-06 Tue 10:29]
 :PROPERTIES:
+:EXPORT_DESCRIPTION: I want to put all my long-term thinking into a nice, future-proof, private-first folder full of text files, I really do.
 :EXPORT_FILE_NAME: i-just-cant-get-into-obsidian
 :EXPORT_DATE: <2021-07-06 Tue 10:29>
 :END:
