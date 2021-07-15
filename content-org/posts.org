@@ -11,6 +11,18 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: posts/2021
 :END:
+** TODO I'm basically blogging with TiddlyWiki at this point
+:PROPERTIES:
+:EXPORT_FILE_NAME: im-basically-blogging-with-tiddlywiki
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE:
+:END:
+
+I'm not sure why I still have this blog. I write nearly everything over at the [[https://rudimentarylathe.wiki][Rudimentary Lathe wiki]]. Photography posts go on [[https://copingmechanism.com][Copingmechanism.com]].
+
+It's just that TiddlyWiki doesn't make a great blogging platform. Plus, mine has too much noise to be useful to anyone other than myself. But boy howdy is it ever useful to me. I think I should continue focusing on its usefulness to me, and if others are sufficiently motivated they can figure out how to follow along. I'm still thinking about how to make that easier, though.
+
+
 ** DONE I just can't get into Obsidian :@Tech:Obsidian:PKM:
 CLOSED: [2021-07-06 Tue 10:29]
 :PROPERTIES:
