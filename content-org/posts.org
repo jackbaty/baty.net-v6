@@ -11,11 +11,11 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: posts/2021
 :END:
-** TODO I'm basically blogging with TiddlyWiki at this point
+** DONE I'm basically blogging with TiddlyWiki at this point
+CLOSED: [2021-07-15 Thu 06:56]
 :PROPERTIES:
 :EXPORT_FILE_NAME: im-basically-blogging-with-tiddlywiki
-:EXPORT_DESCRIPTION:
-:EXPORT_DATE:
+:EXPORT_DATE: <2021-07-15 Thu 06:55>
 :END:
 
 I'm not sure why I still have this blog. I write nearly everything over at the [[https://rudimentarylathe.wiki][Rudimentary Lathe wiki]]. Photography posts go on [[https://copingmechanism.com][Copingmechanism.com]].

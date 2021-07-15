@@ -1,7 +1,8 @@
 ---
 title: "I'm basically blogging with TiddlyWiki at this point"
-lastmod: 2021-07-15T06:54:26-04:00
-draft: true
+date: 2021-07-15T06:56:00-04:00
+lastmod: 2021-07-15T06:57:30-04:00
+draft: false
 weight: 0
 ---
 
