@@ -139,3 +139,6 @@ defaultContentLanguage = "en"           # Default language to use
     path = "github.com/jackbaty/hugo-theme-jane"
     disabled = false
 
+
+[permalinks]
+post = "/:year/:title/"
