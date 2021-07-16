@@ -6,7 +6,7 @@ categories: ["Misc"]
 summary:
 ---
 
-![Crumpled Paper](featured.jpg)
+![Crumpled Paper](/img/2021/2021-05-24-a-new-notetaking-system.jpg)
 
 It feels like the entire world (or at least my corner of) is consumed by the “how” of note-taking. Tools, workflows, processes, backlinks, and on and on. Obsidian? Roam? Paper? I read it all. It’s fun and interesting and there’s no end of things to distract myself with. A distraction is all it is.
 

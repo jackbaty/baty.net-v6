@@ -2,7 +2,7 @@
 title: "I just can't get into Obsidian"
 summary: "I want to put all my long-term thinking into a nice, future-proof, private-first folder full of text files, I really do."
 date: 2021-07-06T10:29:00-04:00
-lastmod: 2021-07-06T10:33:00-04:00
+lastmod: 2021-07-15T07:01:33-04:00
 tags: ["Obsidian", "PKM"]
 categories: ["Tech"]
 draft: false

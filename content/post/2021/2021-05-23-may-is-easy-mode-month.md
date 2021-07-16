@@ -5,7 +5,7 @@ tags: ["workflow"]
 categories: ["Misc"]
 ---
 
-![Featured](featured.jpg)
+![Featured](/img/2021/2021-05-23-may-is-easy-mode-month.jpg)
 
 
 I’m exhausted. I think it’s because I haven’t been working in more than a month and my brain has had too much free time to “figure stuff out.” (Yes, I know how it sounds to complain about exhaustion while not having a job!)

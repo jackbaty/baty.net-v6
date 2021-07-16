@@ -1,7 +1,7 @@
 ---
 title: "Creating a digital index for my paper notebooks"
 date: 2021-06-02T10:50:00-04:00
-lastmod: 2021-06-28T13:58:38-04:00
+lastmod: 2021-07-16T10:05:49-04:00
 draft: false
 weight: 0
 ---
@@ -31,7 +31,7 @@ It's a tab-delimited file with Topic->Pages->Sort Key. The third column, Sort Ke
 
 I wanted a few minor formatting changes so I forked Soren's repo to <https://github.com/jackbaty/mindex> and tweaked it a little. Here's the current output:
 
-{{< figure src="notebook-index.png" caption="Figure 1: Index sample" >}}
+{{< figure src="/img/2021/notebook-index.png" caption="Figure 1: Index sample" >}}
 
 I think it looks nice. LaTeX is awesome. I'm planning to update the index once a month or so. I just did it for May and it only took about 10 minutes. That's not too high a price to pay for the ability to find things more quickly. Once a notebook is complete I may print a copy and insert it right into that notebook.
 

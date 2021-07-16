@@ -9,9 +9,9 @@
 
 * 2021
 :PROPERTIES:
-:EXPORT_HUGO_SECTION: posts/2021
+:EXPORT_HUGO_SECTION: post/2021
 :END:
-** DONE I'm basically blogging with TiddlyWiki at this point
+** DONE I'm basically blogging with TiddlyWiki at this point :@Meta:
 CLOSED: [2021-07-15 Thu 06:56]
 :PROPERTIES:
 :EXPORT_FILE_NAME: im-basically-blogging-with-tiddlywiki
@@ -21,7 +21,6 @@ CLOSED: [2021-07-15 Thu 06:56]
 I'm not sure why I still have this blog. I write nearly everything over at the [[https://rudimentarylathe.wiki][Rudimentary Lathe wiki]]. Photography posts go on [[https://copingmechanism.com][Copingmechanism.com]].
 
 It's just that TiddlyWiki doesn't make a great blogging platform. Plus, mine has too much noise to be useful to anyone other than myself. But boy howdy is it ever useful to me. I think I should continue focusing on its usefulness to me, and if others are sufficiently motivated they can figure out how to follow along. I'm still thinking about how to make that easier, though.
-
 
 ** DONE I just can't get into Obsidian :@Tech:Obsidian:PKM:
 CLOSED: [2021-07-06 Tue 10:29]
@@ -162,8 +161,7 @@ You may recognize CodeIT because it was what I used before [[https://archive.bat
 ** DONE Creating a digital index for my paper notebooks
    CLOSED: [2021-06-02 Wed 10:50]
    :PROPERTIES:
-   :EXPORT_HUGO_BUNDLE: creating-a-digital-index-for-my-notebooks
-   :EXPORT_FILE_NAME: index
+   :EXPORT_FILE_NAME: creating-a-digital-index-for-my-notebooks
    :EXPORT_DATE: <2021-06-02 Wed 10:00>
    :END:
 
@@ -192,19 +190,18 @@ It's a tab-delimited file with Topic->Pages->Sort Key. The third column, Sort Ke
 
 I wanted a few minor formatting changes so I forked Soren's repo to https://github.com/jackbaty/mindex and tweaked it a little. Here's the current output:
 
-
 #+caption: Index sample
-[[file:notebook-index.png]]
+[[file:/img/2021/notebook-index.png]]
 
 I think it looks nice. LaTeX is awesome. I'm planning to update the index once a month or so. I just did it for May and it only took about 10 minutes. That's not too high a price to pay for the ability to find things more quickly. Once a notebook is complete I may print a copy and insert it right into that notebook.
+
 
 I'm still thinking about how to best manage this, but it's a nice start.
 
 ** DONE Pilot Custom 823 Fountain Pen
 CLOSED: [2021-06-01 Tue 13:58]
    :PROPERTIES:
-   :EXPORT_HUGO_BUNDLE: pilot-custom-823
-   :EXPORT_FILE_NAME: index
+   :EXPORT_FILE_NAME: pilot-custom-823
    :EXPORT_DATE: <2021-06-01 Tue 07:55>
    :ID:       4cda5230-c8fe-47fc-9c3a-a1470d83fe68
    :END:
@@ -214,7 +211,7 @@ It's been a while since I bought a new fountain pen. This is about the *Pilot Cu
 
 #+hugo: more
 
-   [[file:823.jpg]]
+   [[file:/img/2021/823.jpg]]
 
 Literally every review I've read says the same things: "It's not a looker, but what a great writer!" I can only resist that kind of consensus for so long, so I bought one. I have the "smoke" color with a fine nib. I [[https://www.jetpens.com/Pilot-Custom-823-Fountain-Pen-Black-Body-Fine-Nib/pd/21024][ordered it from JetPens]] for $270. I'd say this puts it well into significant purchase territory, so I was very excited when it arrived. I've been journaling quite a lot recently and was looking forward to spending time with what reviewers call one of the best every day writers.
 
@@ -236,7 +233,7 @@ If these don't help, I'll advance to something more drastic, such as physically 
 
 I don't want to doubt the nearly unanimous consensus about the Pilot Custom 823, so I am still going with the theory that mine needs some work. Still, I sure hope I can fix the issue and that the pen lives up to its stellar reputation.
 
-[[file:2021-06-01-_R0001218.jpg]]
+[[file:/img/2021/2021-06-01-_R0001218.jpg]]
 
 ** DONE Added Goatcounter analytics
    CLOSED: [2021-05-31 Mon 11:22]

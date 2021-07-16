@@ -1,7 +1,7 @@
 ---
 title: "Pilot Custom 823 Fountain Pen"
 date: 2021-06-01T13:58:00-04:00
-lastmod: 2021-06-01T18:37:46-04:00
+lastmod: 2021-07-16T10:08:15-04:00
 draft: false
 weight: 0
 ---
@@ -10,7 +10,7 @@ It's been a while since I bought a new fountain pen. This is about the **Pilot C
 
 <!--more-->
 
-{{< figure src="823.jpg" >}}
+{{< figure src="/img/2021/823.jpg" >}}
 
 Literally every review I've read says the same things: "It's not a looker, but what a great writer!" I can only resist that kind of consensus for so long, so I bought one. I have the "smoke" color with a fine nib. I [ordered it from JetPens](https://www.jetpens.com/Pilot-Custom-823-Fountain-Pen-Black-Body-Fine-Nib/pd/21024) for $270. I'd say this puts it well into significant purchase territory, so I was very excited when it arrived. I've been journaling quite a lot recently and was looking forward to spending time with what reviewers call one of the best every day writers.
 
@@ -32,7 +32,7 @@ If these don't help, I'll advance to something more drastic, such as physically 
 
 I don't want to doubt the nearly unanimous consensus about the Pilot Custom 823, so I am still going with the theory that mine needs some work. Still, I sure hope I can fix the issue and that the pen lives up to its stellar reputation.
 
-{{< figure src="2021-06-01-_R0001218.jpg" >}}
+{{< figure src="/img/2021/2021-06-01-_R0001218.jpg" >}}
 
 [//]: # "Exported with love from a post written in Org mode"
 [//]: # "- https://github.com/kaushalmodi/ox-hugo"
