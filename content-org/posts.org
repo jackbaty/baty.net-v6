@@ -29,7 +29,8 @@ it!
 
 That's not an email newsletter, that's spam. What you're doing is blogging and emailing me a link to new posts. If I wanted to be notified that you posted something, I have RSS.
 
-Unsubscribed.
+Unsubscribed[fn:1]
+
 ** DONE I'm basically blogging with TiddlyWiki at this point :@Meta:
 CLOSED: [2021-07-15 Thu 06:56]
 :PROPERTIES:
@@ -458,6 +459,8 @@ Email: [[mailto:jack@baty.net][jack@baty.net]]
 
 
 * Footnotes
+
+[fn:1] Ok, not really, but still.
 * COMMENT Local Variables                                           :ARCHIVE:
 # Local Variables:
 # org-hugo-footer: "\n\n[//]: # \"Exported with love from a post written in Org mode\"\n[//]: # \"- https://github.com/kaushalmodi/ox-hugo\""
