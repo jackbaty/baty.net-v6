@@ -19,7 +19,7 @@ CLOSED: [2021-07-24 Sat 05:27]
 :EXPORT_DATE: <2021-07-24 Sat 05:30>
 :END:
 
-In his post "[[https://www.robinsloan.com/notes/just-link/][Just Link]]", Robin Sloan (who I love), suggests that, instead of sending newsletter content in an email, publishers send an email with only a link to the actual content.
+In his post "[[https://www.robinsloan.com/notes/just-link/][Just Link]]", Robin Sloan (whom I love), suggests that, instead of sending newsletter content in an email, publishers send an email with only a link to the actual content.
 
 #+begin_quote
 But, weighing all these considerations, if it’s possible for you, as a
