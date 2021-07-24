@@ -1,7 +1,7 @@
 ---
-title: "Just Link - no don't"
+title: "\"Just Link\" - no don't"
 date: 2021-07-24T05:27:00-04:00
-lastmod: 2021-07-24T05:46:23-04:00
+lastmod: 2021-07-24T05:51:19-04:00
 draft: false
 weight: 0
 ---
@@ -12,7 +12,7 @@ In his post "[Just Link](https://www.robinsloan.com/notes/just-link/)", Robin Sl
 > newsletter-er, to rescue the meat of your dispatches from the inbox: I recommend
 > it!
 
-That's not an email newsletter, that's spam. What you're doing is blogging and emailing me a link to new posts. If I wanted to be notified that you posted something, I have RSS.
+That's not an email newsletter, that's spam. What you're doing is blogging and emailing me a link to new posts. If all I wanted was to be notified that you posted something new, there's RSS.
 
 Unsubscribed[^fn:1]
 

@@ -11,7 +11,7 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: post/2021
 :END:
-** DONE Just Link - no don't
+** DONE "Just Link" - no don't
 CLOSED: [2021-07-24 Sat 05:27]
 :PROPERTIES:
 :EXPORT_FILE_NAME: dont-just-link
@@ -27,7 +27,7 @@ newsletter-er, to rescue the meat of your dispatches from the inbox: I recommend
 it!
 #+end_quote
 
-That's not an email newsletter, that's spam. What you're doing is blogging and emailing me a link to new posts. If I wanted to be notified that you posted something, I have RSS.
+That's not an email newsletter, that's spam. What you're doing is blogging and emailing me a link to new posts. If all I wanted was to be notified that you posted something new, there's RSS.
 
 Unsubscribed[fn:1]
 
