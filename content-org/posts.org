@@ -11,6 +11,25 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: post/2021
 :END:
+** DONE Don't Just Link
+CLOSED: [2021-07-24 Sat 05:27]
+:PROPERTIES:
+:EXPORT_FILE_NAME:dont-just-link
+:EXPORT_DESCRIPTION:
+:EXPORT_DATE: <2021-07-24 Sat 05:30>
+:END:
+
+In his post "[[https://www.robinsloan.com/notes/just-link/][Just Link]]", Robin Sloan (who I love), suggests that, instead of sending newsletter content in an email, publishers send an email with only a link to the actual content.
+
+#+begin_quote
+But, weighing all these considerations, if it’s possible for you, as a
+newsletter-er, to rescue the meat of your dispatches from the inbox: I recommend
+it!
+#+end_quote
+
+That's not an email newsletter, that's spam. What you're doing is blogging and emailing me a link to new posts. If I wanted to be notified that you posted something, I have RSS.
+
+Unsubscribed.
 ** DONE I'm basically blogging with TiddlyWiki at this point :@Meta:
 CLOSED: [2021-07-15 Thu 06:56]
 :PROPERTIES:
