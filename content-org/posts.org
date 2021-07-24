@@ -11,7 +11,7 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: post/2021
 :END:
-** DONE "Just Link" - no don't
+** DONE "Just Link" - no don't :Blogging:
 CLOSED: [2021-07-24 Sat 05:27]
 :PROPERTIES:
 :EXPORT_FILE_NAME: dont-just-link

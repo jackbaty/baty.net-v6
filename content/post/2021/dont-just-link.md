@@ -1,7 +1,8 @@
 ---
 title: "\"Just Link\" - no don't"
 date: 2021-07-24T05:27:00-04:00
-lastmod: 2021-07-24T05:59:11-04:00
+lastmod: 2021-07-24T06:00:55-04:00
+tags: ["Blogging"]
 draft: false
 weight: 0
 ---
