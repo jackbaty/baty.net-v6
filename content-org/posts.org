@@ -11,6 +11,23 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: post/2021
 :END:
+** DONE Safari 15 on Mac OS, a user interface mess - Riccardo Mori :@Tech:Apple:
+CLOSED: [2021-07-25 Sun 05:14]
+:PROPERTIES:
+:EXPORT_FILE_NAME: safari-15-on-mac-os-a-user-interface-mess
+:EXPORT_DESCRIPTION: I hate the new Safari design so much I want to leave Apple completely.
+:EXPORT_DATE: <2021-07-25 Sun 05:15>
+:END:
+
+#+begin_export html
+<blockquote class="quoteback" darkmode="" data-title="Safari 15 on Mac OS, a user interface mess" data-author="@morrick" cite="https://morrick.me/archives/9368">
+The utter user-interface butchery happening to Safari on the Mac is once again the work of people who put iOS first. People who by now think in iOS terms. People who view the venerable Mac OS user interface as an older person whose traits must be experimented upon, plastic surgery after plastic surgery, until this person looks younger.
+<footer>@morrick<cite> <a href="https://morrick.me/archives/9368">https://morrick.me/archives/9368</a></cite></footer>
+</blockquote><script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
+#+end_export
+
+It's almost as if the Mac team within Apple has been replaced by a bunch of kids who grew up on iOS.
+
 ** DONE "Just Link" - no don't :Blogging:
 CLOSED: [2021-07-24 Sat 05:27]
 :PROPERTIES:
