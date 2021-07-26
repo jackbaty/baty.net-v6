@@ -11,6 +11,20 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: post/2021
 :END:
+** DONE Forced Social Engagement - Macdrifter
+CLOSED: [2021-07-26 Mon 05:53]
+:PROPERTIES:
+:EXPORT_FILE_NAME: forced-social-engagement
+:EXPORT_DATE: <2021-07-26 Mon 05:55>
+:END:
+
+[[http://www.macdrifter.com/2021/06/forced-social-engagement.html][Gabe, Macdrifter]]:
+#+begin_quote
+Am I the only one that's noticed a rise in app developers pushing customers into mandated relationships through Discord and Slack as "support" channels? It feels like a trend and I am not onboard with this investment in other people's business. Sure, I love a good user forum, but Slack and Discord are garbage user forums.
+#+end_quote
+
+Strong agree.
+
 ** DONE Safari 15 on Mac OS, a user interface mess - Riccardo Mori :@Tech:Apple:
 CLOSED: [2021-07-25 Sun 05:14]
 :PROPERTIES:
