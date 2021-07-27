@@ -11,6 +11,17 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: post/2021
 :END:
+** DONE From Safari (15) to Vivaldi
+CLOSED: [2021-07-27 Tue 05:32]
+:PROPERTIES:
+:EXPORT_FILE_NAME: from-safari-to-vivaldi
+:EXPORT_DESCRIPTION: That's how much I hate the new Safari
+:EXPORT_DATE: <2021-07-27 Tue 05:32>
+:END:
+
+I'm sorry, Safari, but until you reconsider the completely and objectively[fn:2] terrible changes made in version 15, I'll be using [[https://vivaldi.com][Vivaldi]]. I never thought I'd end up back in a Chromium based browser, but Vivaldi is quite nice. It packs a lot of capabilities into a small space. This, as opposed to Safari 15, which ruined an already smaller set of capabilities in the unnecessary quest to take up less space.
+
+
 ** DONE Forced Social Engagement - Macdrifter
 CLOSED: [2021-07-26 Mon 05:53]
 :PROPERTIES:
@@ -490,6 +501,7 @@ Email: [[mailto:jack@baty.net][jack@baty.net]]
 
 
 * Footnotes
+[fn:2] You could argue about "objectively" but I'm sticking with it.
 
 [fn:1] Ok, not really, but still.
 * COMMENT Local Variables                                           :ARCHIVE:
