@@ -2,7 +2,7 @@
 title: "From Safari (15) to Vivaldi"
 summary: "That's how much I hate the new Safari"
 date: 2021-07-27T05:32:00-04:00
-lastmod: 2021-07-27T05:32:24-04:00
+lastmod: 2021-08-08T16:25:31-04:00
 draft: false
 weight: 0
 ---
