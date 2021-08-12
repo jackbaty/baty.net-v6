@@ -11,9 +11,64 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: post/2021
 :END:
-#+startup: showall indent
-#+startup: hidestars
-#+begin_html
+** DONE Software proliferation :@Tech:
+CLOSED: [2021-08-12 Thu 06:20]
+:PROPERTIES:
+:EXPORT_FILE_NAME: software-proliferation
+:EXPORT_DESCRIPTION: My machine has too much software installed
+:EXPORT_DATE: <2021-08-12 Thu 06:20>
+:END:
+
+Once in a while I find myself in a foul mood about software proliferation and my tendencies to extend and overcomplicate everything. Today, for example.
+
+So, this week, I'm seeing how much I can manage using Emacs (with Org mode), the filesystem, a terminal, and a web browser. As you can imagine, it's impossible. I'm sure I've written about this before, but it's on my mind again so I'm updating the list while I'm here.
+
+Below is a quick list of software (on my Macs) that I always have available and for which no reasonable substitutes exists (that aren't just more software).
+
+- [[https://www.gnu.org/software/emacs/][Emacs]]
+- [[https://vivaldi.net/][Vivaldi]]
+- Finder
+- [[https://iterm2.com/][iTerm]]
+
+There, that should be it, right? Uh, nope...
+
+- [[https://roonlabs.com/][Roon]]
+- [[https://1password.com/][1Password]]
+- Preview
+- Messages
+- [[https://www.adobe.com/products/photoshop-lightroom-classic.html][Lightroom Classic]]
+- [[https://www.captureone.com/en][Capture One Pro]]
+- [[https://www.silverfast.com/silverfast9/][SilverFast]]
+- [[https://nikcollection.dxo.com/silver-efex-pro/][Silver Efex Pro]]
+- [[https://dayoneapp.com/][Day One]]
+- [[https://apps.apple.com/us/app/deliveries-a-package-tracker/id290986013][Deliveries]]
+- [[https://discord.com/][Discord]]
+- [[http://netnewswireapp.com/][NetNewsWire]]
+- Numbers
+- [[https://www.blackmagicdesign.com/products/davinciresolve][DaVinci Resolve]]
+- [[https://home.camerabits.com/][Photo Mechanic]]
+- [[https://www.fujitsu.com/global/products/computing/peripheral/scanners/soho/sshome/][ScanSnap Home]]
+- [[https://signal.org/en/][Signal]]
+- [[https://www.zotero.org/][Zotero]]
+
+And then there are the utilities and background apps...
+
+- [[https://www.keyboardmaestro.com/][Keyboard Maestro]]
+- [[https://www.alfredapp.com/][Alfred]]
+- [[https://bombich.com/][Carbon Copy Cloner]]
+- [[https://manytricks.com/moom/][Moom]]
+- [[https://www.minus.app/][Minus]]
+- [[https://help.smugmug.com/upload-photos-and-videos-ryoVlgDJErz][SmugMug uploader]]
+- [[https://www.loom.com/][Loom]]
+- [[https://www.dropbox.com/][Dropbox]]
+- [[https://apps.apple.com/us/app/camo-webcam-for-mac-and-pc/id1514199064][Camo Studio]]
+- [[https://setapp.com/apps/cleanshot][CleanShot X]]
+
+Some of these could be replaced with browser, Emacs, or command-line versions, but at a significant loss of utility. That list also only includes the must-have-and-can't-find-replacement apps. I have dozens more installed that I use occasionally but don't technically need.
+The current exercise of using just a few is mostly a reminder to stop installing and configuring every app I see and maybe just get some stuff done instead.
+
+
+
 ** DONE Dr. Drang's wiki is not Obsidian
 CLOSED: [2021-08-08 Sun 16:26]
 :PROPERTIES:
