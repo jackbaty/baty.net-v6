@@ -2,7 +2,7 @@
 title: "Software proliferation"
 summary: "My machine has too much software installed"
 date: 2021-08-12T06:20:00-04:00
-lastmod: 2021-08-12T06:27:03-04:00
+lastmod: 2021-08-12T08:54:16-04:00
 tags: ["Software", "Workflow"]
 categories: ["Tech"]
 draft: false

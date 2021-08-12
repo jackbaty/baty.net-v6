@@ -68,7 +68,6 @@ Some of these could be replaced with browser, Emacs, or command-line versions, b
 The current exercise of using just a few is mostly a reminder to stop installing and configuring every app I see and maybe just get some stuff done instead.
 
 
-
 ** DONE Dr. Drang's wiki is not Obsidian
 CLOSED: [2021-08-08 Sun 16:26]
 :PROPERTIES:
