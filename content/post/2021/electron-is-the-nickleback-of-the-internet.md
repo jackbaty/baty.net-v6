@@ -6,7 +6,7 @@ tags: ["Software"]
 categories: ["Tech"]
 ---
 
-[1Password 8](https://1password.community/discussion/122136/) uses Electron and the internet is already collectively shitting its pants before even trying it.
+[1Password 8](https://1password.community/discussion/122136/) uses Electron and the internet is already collectively shitting its pants before many people have even tried it.
 
 Things that matter to me in a password manager, in order of importance:
 
