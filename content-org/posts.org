@@ -11,6 +11,21 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: post/2021
 :END:
+** DONE Dev builds perfect note-taking system which only stores info about building note-taking systems :Notetaking:
+CLOSED: [2021-08-21 Sat 11:49]
+:PROPERTIES:
+:EXPORT_FILE_NAME: the-dream-is-real
+:EXPORT_DATE:
+:END:
+
+The dream is real...
+
+[[https://www.theolognion.com/dev-builds-perfect-note-taking-system-which-only-stores-info-about-building-note-taking-systems/][Dev builds perfect note-taking system which only stores info about building note-taking systems]]
+#+begin_quote
+the dream became reality when she finally completed her perfect note-taking system comprised of Zettelkasten-styled interlinked markdown files stored in Org-mode format with two-way conversion on the fly with syncronization across devices through a p2p network with E2E-encryption and backups stored in IPFS, with both native and PWA apps for all major platforms as well as command-line interface with a rich set of zsh autocompletions and keyboard shortcuts.
+#+end_quote
+
+
 ** DONE Software proliferation :@Tech:Software:Workflow:
 CLOSED: [2021-08-12 Thu 06:20]
 :PROPERTIES:
