@@ -11,7 +11,7 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: post/2021
 :END:
-** DONE Adding category icons to Org Agenda :orgmode:
+** DONE Adding category icons to Org Agenda :orgmode:emacs:
 CLOSED: [2021-08-22 Sun 13:16]
 :PROPERTIES:
 :EXPORT_FILE_NAME: adding-category-icons-to-org-agenda

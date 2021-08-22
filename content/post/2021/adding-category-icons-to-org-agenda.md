@@ -1,8 +1,8 @@
 ---
 title: "Adding category icons to Org Agenda"
 date: 2021-08-22T13:16:00-04:00
-lastmod: 2021-08-22T13:16:27-04:00
-tags: ["orgmode"]
+lastmod: 2021-08-22T13:23:57-04:00
+tags: ["orgmode", "emacs"]
 draft: false
 weight: 0
 ---
