@@ -11,6 +11,36 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: post/2021
 :END:
+** DONE Adding category icons to Org Agenda :orgmode:
+CLOSED: [2021-08-22 Sun 13:16]
+:PROPERTIES:
+:EXPORT_FILE_NAME: adding-category-icons-to-org-agenda
+:EXPORT_DATE:
+:ID:       da455f89-6602-4cc3-a4b8-45962084d988
+:END:
+
+I didn't know it was so easy to add icons based on an entry's category when viewing my Org agenda. Look at this!
+
+#+attr_org: :width 600px
+[[attachment:_20210822_1242442021-08-22-agenda.png]]
+
+
+Here's my config so far. (Idea stolen from someone, but I don't remember from whom, sorry)
+
+#+begin_src elisp
+(setq org-agenda-category-icon-alist
+        `(("Personal" ,(list (all-the-icons-material "home" :height 1.0)) nil nil :ascent center)
+          ("Repeat" ,(list (all-the-icons-material "repeat" :height 1.0)) nil nil :ascent center)
+          ("Events" ,(list (all-the-icons-material "event" :height 1.0)) nil nil :ascent center)
+          ("Anniv" ,(list (all-the-icons-material "perm_contact_calendar" :height 1.0)) nil nil :ascent center)
+          ("Birthday" ,(list (all-the-icons-material "cake" :height 1.0)) nil nil :ascent center)
+          ("Daybook" ,(list (all-the-icons-material "info_outline" :height 1.0)) nil nil :ascent center)
+          ("Task" ,(list (all-the-icons-material "check_box_outline_blank" :height 1.0)) nil nil :ascent center)
+          ("Unfiled" ,(list (all-the-icons-material "move_to_inbox" :height 1.0)) nil nil :ascent center)))
+#+end_src
+
+Emacs is cool.
+
 ** DONE Dev builds perfect note-taking system which only stores info about building note-taking systems :Notetaking:
 CLOSED: [2021-08-21 Sat 11:49]
 :PROPERTIES:

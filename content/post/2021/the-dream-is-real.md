@@ -1,7 +1,7 @@
 ---
 title: "Dev builds perfect note-taking system which only stores info about building note-taking systems"
 date: 2021-08-21T11:49:00-04:00
-lastmod: 2021-08-21T11:49:38-04:00
+lastmod: 2021-08-22T12:43:59-04:00
 tags: ["Notetaking"]
 draft: false
 weight: 0
